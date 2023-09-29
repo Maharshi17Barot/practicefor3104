@@ -1,0 +1,12 @@
+{
+  "name": "practicelabs",
+  "version": "1.0.0",
+  "description": "- Maharshi Barot\r - 101380593",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [],
+  "author": "Maharshi Barot",
+  "license": "ISC"
+}
