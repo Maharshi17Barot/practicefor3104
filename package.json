@@ -4,7 +4,8 @@
   "description": "- Maharshi Barot\r - 101380593",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Maharshi Barot",
